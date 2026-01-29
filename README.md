@@ -51,7 +51,7 @@ $$f = \frac{1}{2\pi (4700) (27 \times 10^{-9}) (2.45)} \approx \mathbf{512 \text
 
 ## 📸 Circuit & Prototype
 *(Upload a photo of your breadboard here and rename it circuit.jpg)*
-![Circuit Prototype](circuit.jpg)
+![Circuit Prototype](circuit_photo.jpeg)
 
 ## 🧪 Results
 - **Theoretical Frequency:** 512 Hz
