@@ -50,7 +50,6 @@ $$f = \frac{1}{2\pi R C \sqrt{6}}$$
 $$f = \frac{1}{2\pi (4700) (27 \times 10^{-9}) (2.45)} \approx \mathbf{512 \text{ Hz}}$$
 
 ## 📸 Circuit & Prototype
-*(Upload a photo of your breadboard here and rename it circuit.jpg)*
 ![Circuit Prototype](circuit_photo.jpeg)
 
 ## 🧪 Results
@@ -63,5 +62,5 @@ $$f = \frac{1}{2\pi (4700) (27 \times 10^{-9}) (2.45)} \approx \mathbf{512 \text
 2. *HyperPhysics: Phase Shift Oscillator* - Georgia State University.
 
 ---
-**Author:** [Your Name]
+**Author:** M.sohair Khan
 **Institution:** Sir Syed University of Engineering & Technology
